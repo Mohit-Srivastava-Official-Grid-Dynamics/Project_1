@@ -1,6 +1,5 @@
 # Project_1 — Natours Landing Page
 
-Simple landing page project built with Sass and a small Node.js toolchain.
 
 **Description**
 - This repository contains the Natours landing page UI built using SASS (organized under `sass/`) and compiled to CSS (under `css/`).
