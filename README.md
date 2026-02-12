@@ -62,10 +62,7 @@ Then run:
 npm run compile:sass
 ```
 
-**Questions / Next steps**
-- Do you want me to update `package.json` to compile directly to `css/style.css` and remove the extra build steps? I can commit that change if you want.
 
----
 Author: Mohit (project owner)
 
 # Front-End UI Project
